@@ -16,6 +16,9 @@
         [
             { "img": "img/partners/solar.svg", "alt": "Солар", "url": "https://rt-solar.ru/" },
             { "img": "img/partners/ctech.svg", "alt": "Компьютерные технологии" }
+        ],
+        [
+            { "img": "img/partners/waicore.svg", "alt": "Waicore", "url": "https://waicore.net" }
         ]
     ],
     "gallery": [
